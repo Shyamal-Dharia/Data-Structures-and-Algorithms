@@ -1,10 +1,8 @@
 #include<iostream>
 using namespace std;
 
-// Function declaration for the merge step
+// Function declarations
 void merge(int arr[], int start, int mid, int end, int length);
-
-// Function to recursively divide and merge the array
 void mergeSort(int arr[], int start, int end, int length);
 
 // Merge function to combine two sorted subarrays into one
