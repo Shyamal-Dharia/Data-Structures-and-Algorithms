@@ -11,6 +11,6 @@ git clone https://github.com/Shyamal-Dharia/Data-Structures-and-Algorithms.git
 
 ## Contributing 
 
-Contributions are welcome! just make sure you use comments, just makes things easy to understand! 
+Contributions are welcome! just make sure you use comments, it just make things easy to understand! 
 
 Thanks
